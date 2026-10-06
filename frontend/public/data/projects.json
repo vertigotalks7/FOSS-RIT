@@ -139,6 +139,27 @@
     "featured": true
   },
   {
+    "id": "proj-sbskip",
+    "name": "SB Skip",
+    "description": "Android app that automatically detects and skips SponsorBlock segments in downloaded YouTube videos.",
+    "repo_url": "https://github.com/nihaltp/SBSkip",
+    "tech_stack": [
+      "Kotlin",
+      "Jetpack Compose",
+      "FFmpeg",
+      "NewPipe",
+      "SponsorBlock"
+    ],
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "is_verified_student": true,
+    "submitted_by_username": "nihaltp",
+    "submitted_by_name": "Nihal T P",
+    "batch": "2024",
+    "featured": true
+  },
+  {
     "id": "proj-github-stats-generator",
     "name": "GitHub Stats Generator",
     "description": "A highly customizable, embeddable GitHub stats card generator. Create beautiful, themeable SVG or PNG cards to display your GitHub profile statistics, languages, and activity.",
@@ -155,27 +176,6 @@
     "submitted_by_username": "AndrewJerryV",
     "submitted_by_name": "Andrew Jerry V",
     "batch": "2023",
-    "featured": true
-  },
-  {
-    "id": "proj-sbskip",
-    "name": "SB Skip",
-    "description": "Android app that automatically detects and skips SponsorBlock segments in downloaded YouTube videos.",
-    "repo_url": "https://github.com/nihaltp/SBSkip",
-    "tech_stack": [
-      "Kotlin",
-      "Jetpack Compose",
-      "FFmpeg",
-      "NewPipe",
-      "SponsorBlock"
-    ],
-    "stars": 4,
-    "forks": 0,
-    "open_issues": 0,
-    "is_verified_student": true,
-    "submitted_by_username": "nihaltp",
-    "submitted_by_name": "Nihal T P",
-    "batch": "2024",
     "featured": true
   },
   {
