@@ -312,7 +312,7 @@
     "date_time": "Jan 9, 2026 \u2022 7:40 AM IST",
     "raw_date": "2026-01-09T07:40:00Z",
     "location": "CSE Seminar Hall",
-    "capacity": 3104,
+    "capacity": 3105,
     "registered_count": 0,
     "is_open": true,
     "is_collab": true,
@@ -376,23 +376,5 @@
     "meet_url": "https://meet.google.com/jug-acet-gek",
     "event_url": "https://tinkerhub.org/events/E6EFS503SP",
     "banner_url": "https://appbucket-hoomans.s3.ap-south-1.amazonaws.com/1765368215515356966fireflyposterbannner.jpg"
-  },
-  {
-    "id": "th-rit-RZO15PZEKC",
-    "title": "Let's Build a Chrome Extension: Openn mic-Edition 2",
-    "description": "Let's Build a Chrome Extension is an interactive and informative talk session where you can build a Chrome Extension(from basic) and can meet curious makers among us\nWomen in tech presents Openn mic-Edition 2... ",
-    "date_time": "Dec 5, 2025 \u2022 7:15 AM IST",
-    "raw_date": "2025-12-05T07:15:00Z",
-    "location": "CS Seminar hall, RIT Kottayam ",
-    "capacity": 80,
-    "registered_count": 0,
-    "is_open": true,
-    "is_collab": true,
-    "is_upcoming": false,
-    "source": "tinkerhub",
-    "event_type": "Talk Session",
-    "meet_url": null,
-    "event_url": "https://tinkerhub.org/events/RZO15PZEKC",
-    "banner_url": "https://appbucket-hoomans.s3.ap-south-1.amazonaws.com/17645922096794091001000312724.png"
   }
 ]
