@@ -28,7 +28,7 @@
     "registered_count": 0,
     "is_open": true,
     "is_collab": true,
-    "is_upcoming": true,
+    "is_upcoming": false,
     "source": "tinkerhub",
     "event_type": "Meetup",
     "meet_url": null,
