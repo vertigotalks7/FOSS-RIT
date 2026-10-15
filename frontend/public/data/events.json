@@ -376,23 +376,5 @@
     "meet_url": null,
     "event_url": "https://tinkerhub.org/events/0ONEXD30XG",
     "banner_url": "https://appbucket-hoomans.s3.ap-south-1.amazonaws.com/1766070320919556865post-mortem(1).png"
-  },
-  {
-    "id": "th-rit-E6EFS503SP",
-    "title": "AI - Notetakers",
-    "description": "Fireflies.ai is an AI-powered meeting assistant that records, transcribes, and summarizes virtual and in-person meetings. It acts as an AI teammate that joins calls, generates accurate transcripts in over 100 languages, and creates automated notes, action items, and recaps",
-    "date_time": "Dec 11, 2025 \u2022 3:30 PM IST",
-    "raw_date": "2025-12-11T15:30:00Z",
-    "location": "Google Meet Virtual Session",
-    "capacity": 80,
-    "registered_count": 0,
-    "is_open": true,
-    "is_collab": true,
-    "is_upcoming": false,
-    "source": "tinkerhub",
-    "event_type": "Learning Program",
-    "meet_url": "https://meet.google.com/jug-acet-gek",
-    "event_url": "https://tinkerhub.org/events/E6EFS503SP",
-    "banner_url": "https://appbucket-hoomans.s3.ap-south-1.amazonaws.com/1765368215515356966fireflyposterbannner.jpg"
   }
 ]
