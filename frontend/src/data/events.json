@@ -330,7 +330,7 @@
     "date_time": "Jan 9, 2026 \u2022 7:40 AM IST",
     "raw_date": "2026-01-09T07:40:00Z",
     "location": "CSE Seminar Hall",
-    "capacity": 3130,
+    "capacity": 3129,
     "registered_count": 0,
     "is_open": true,
     "is_collab": true,
@@ -358,23 +358,5 @@
     "meet_url": null,
     "event_url": "https://tinkerhub.org/events/VVQVNPS8S9",
     "banner_url": "https://appbucket-hoomans.s3.ap-south-1.amazonaws.com/1766499317202030174IlluminaTree(3).png"
-  },
-  {
-    "id": "th-rit-0ONEXD30XG",
-    "title": "POST-MORTEM v1",
-    "description": "The first stakeholder meet after almost 6 months of new core team. A meetup involving pre-invited most active community members for them to give their suggestions and feedback on how to improve the community.",
-    "date_time": "Dec 19, 2025 \u2022 7:20 AM IST",
-    "raw_date": "2025-12-19T07:20:00Z",
-    "location": "CSE Seminar Hall",
-    "capacity": 80,
-    "registered_count": 0,
-    "is_open": true,
-    "is_collab": true,
-    "is_upcoming": false,
-    "source": "tinkerhub",
-    "event_type": "Meetup",
-    "meet_url": null,
-    "event_url": "https://tinkerhub.org/events/0ONEXD30XG",
-    "banner_url": "https://appbucket-hoomans.s3.ap-south-1.amazonaws.com/1766070320919556865post-mortem(1).png"
   }
 ]
