@@ -10,7 +10,7 @@
     "registered_count": 0,
     "is_open": true,
     "is_collab": true,
-    "is_upcoming": true,
+    "is_upcoming": false,
     "source": "tinkerhub",
     "event_type": "Talk Session",
     "meet_url": "https://meet.google.com/hum-kwvv-stb",
